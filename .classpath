@@ -7,12 +7,16 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="01-helloWorld"/>
-	<classpathentry kind="src" path="02-variaveis"/>
+	<classpathentry kind="src" path="02_variaveis"/>
 	<classpathentry kind="src" path="04_Condicionais"/>
-	<classpathentry kind="src" path="Exercios"/>
+	<classpathentry kind="src" path="Exercios_01"/>
 	<classpathentry kind="src" path="05_Ternarios"/>
 	<classpathentry kind="src" path="06_Repeticoes"/>
 	<classpathentry kind="src" path="07_Calculadoras"/>
 	<classpathentry kind="src" path="08_Strings"/>
+	<classpathentry kind="src" path="09_Listas"/>
+	<classpathentry kind="src" path="Exercícios_02"/>
+	<classpathentry kind="src" path="10_Polimorfismo"/>
+	<classpathentry kind="src" path="11_Heranca"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

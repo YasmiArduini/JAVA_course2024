@@ -18,6 +18,6 @@
 	<classpathentry kind="src" path="Exercícios_02"/>
 	<classpathentry kind="src" path="10_Polimorfismo"/>
 	<classpathentry kind="src" path="11_Heranca"/>
-	<classpathentry kind="src" path="CRUD"/>
+	<classpathentry kind="src" path="12_CRUD"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

@@ -19,5 +19,7 @@
 	<classpathentry kind="src" path="10_Polimorfismo"/>
 	<classpathentry kind="src" path="11_Heranca"/>
 	<classpathentry kind="src" path="12_CRUD"/>
+	<classpathentry kind="src" path="ProjetoAssec"/>
+	<classpathentry kind="src" path="13_Interface"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

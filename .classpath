@@ -21,5 +21,6 @@
 	<classpathentry kind="src" path="12_CRUD"/>
 	<classpathentry kind="src" path="ProjetoAssec"/>
 	<classpathentry kind="src" path="13_Interface"/>
+	<classpathentry kind="src" path="15_JavaString"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
